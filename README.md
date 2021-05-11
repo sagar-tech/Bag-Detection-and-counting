@@ -1,0 +1,2 @@
+# Bag-Detection-and-counting
+Object detection is a process of finding all the possible instances of real-world objects, such as human faces, flowers, cars, etc. in images or videos, in real-time with utmost accuracy. The object detection technique uses derived features and learning algorithms to recognize all the occurrences of an object category. The real-world applications of object detection are image retrieval, security and surveillance, advanced driver assistance systems, also known as ADAS, and many others
